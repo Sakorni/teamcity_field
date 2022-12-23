@@ -1,5 +1,5 @@
 package teamcity
 
 func DoIt(x int) int {
-	return x
+	return x + 1
 }
